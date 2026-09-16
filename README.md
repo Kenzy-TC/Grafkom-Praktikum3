@@ -2,8 +2,10 @@
 
 **Mata Kuliah:** EF234504 — Grafika Komputer  
 **Topik:** Interactive Transformation & Coordinate System dengan WebGL2  
-**NRP:** ____________________  
-**Nama:** ____________________
+**NRP:** 5025241085
+**Nama:** Mario Napitupulu
+**NRP:** 5025241109
+**Nama:** Nathanael Oliver
 
 ## Deskripsi
 Project ini mengimplementasikan konsep local coordinate, world placement melalui Model Matrix, translation, rotation, uniform/non-uniform scaling, homogeneous coordinate, matrix multiplication, transform composition, keyboard state, delta time, automatic animation, transform-order comparison, pivot, coordinate axes, parent-child hierarchy, orbit challenge, mouse translation, preset, dan HUD transform.
